@@ -1,2 +1,2 @@
 # graphis
-An easy minimal boilerplate to create graphQL and rest api
+An easy minimal boilerplate for creating graphQL and rest api
